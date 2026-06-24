@@ -1,0 +1,175 @@
+信标:Tag
+冲标:overshoot
+欠标:undershoot
+TI主机:TI reader
+ATB:Automatic Turn-Back自动折返
+ATC:Automatic Train Control列车自动控制
+ATO:Automatic Train Operation列车自动运行
+ATP:Automatic Train Protection列车自动防护
+CBTC:Communication Based Train Control基于通信的列车控制
+CC:Carborne Controller车载控制器
+CN:Carborne Network车载网络
+DCS:Data Communication System数据通信系统
+EMC:Electro-Magnetic Compatibility电磁兼容
+EMI:Electro-Magnetic Interference电磁干扰
+EOSS:Electro-Optical Speed Sensor光电速度传感器
+ESE:Ethernet Switch/Extender以太网交换/扩展板
+IATP:Intermittent ATP点式ATP
+ICDD:Interface Control and Definition Document接口控制和定义文件
+MR:Mobile Radio移动通信系统
+MTORE:Input/Output Controller Board输入/输出控制器板
+PE:Propulsion Enable牵引使能
+PIDS:Passenger Information Display System乘客信息显示系统
+RM:Restricted Manual人工受限
+TI:Transponder Interrogator查询器
+TIA:Transponder Interrogator Antenna查询器天线
+TMS:Train Management System列车管理系统
+TOD:Train Operator Display列车司机显示器
+TOR:Top of Rail轨面
+ACS:计轴系统 Axle Counting System
+AM:ATO自动模式  ATO Mode
+ANSI:美国国家标准局 American National Standards Institute
+AP:接入点  Access Point
+AS:接入交换机 Access Switch
+ASTS:安萨尔多 交通集团 Ansaldo Transportion
+ASQ:美国质量学会 American Society for Quality
+ATO:列车自动运行  Automatic Train Operation
+ATP:列车自动防护  Automatic Train Protection
+ATPM:ATP防护下的人工列车驾驶模式  ATP Manual Mode
+ATS:列车自动监控  Automatic Train Supervision
+ATB:自动折返 Automatic Turnback
+bps:比特/秒 bits per second
+BS:骨干交换机 Backbone Switch
+CBTC:基于通信的列车控制  Communications-Based Train Control
+CENELEC:欧洲电工标准化委员会 European Committee for Electrotechnical Standardization
+CC:车载控制器  Carborne Controller
+COAST:惰行 Coast
+CPU:中央处理器 Central Processing Unit
+DB:数据库  Database
+DCS:数据通信子系统  Data Communication Subsystem
+DID:目的地号 Destination Identification
+EB:紧急制动  Emergency Brake
+EN:欧洲标准 European Norm
+FSB:全常用制动Full service brake
+IATP:点式ATP人工驾驶模式Intermittent ATP operation manual
+ID:身份  Identity
+IEEE:美国电气及电子工程师学会 Institute of Electrical and Electronics Engineers
+ILC:联锁控制器  Interlocking Controller
+IP:互联网协议 Internet Protocol
+ISO:国际标准化组织  International Standards Organization
+LCD:液晶显示器 Liquid Crystal Displayer
+LED:发光二极管 Light Emitting Diode
+MAL:移动授权  Movement Authority Limit
+Microlok:ASTS生产的联锁系统Interlocking System Provided by ASTS
+MR:车载无线台Mobile Radio
+NRM:非限制人工模式Non-Restricted Manual
+OCC:控制运营中心 Operational Control Center
+PCI:协议控制信息 Protocol Control Information
+PMC:可编程矩阵控制器 Programmable Matrix Controller
+PSD:屏蔽门 Platform Screen Door
+PVID:车辆固定标识 Permanent Vehicle Identity
+RAM:可靠性、可用性和可维护性 
+:Reliability, Availability & Maintainability
+RM:限制人工模式  Restricted Manual
+SAP:服务接入点 Service Access Point
+SIL:安全完整性等级 Safety Integration Level
+TOD:司机显示器  Train Operator Display
+TIA:信标查询器天线 Tag(Transponder) Interrogator Antenna
+TID:追踪标识 Tracking Identity
+TSR:临时速度限制  Temporary Speed Restriction
+UDP:用户数据报协议 User Datagram Protocol
+UPS:不间断电源  Uninterruptible Power Supply
+VR:列车调整  Vehicle Regulation
+WLAN:无线局域网 Wireless Local Area Network
+ZC:区域控制器  Zone Controller
+ADO/ADC:Automatic Door Open/Automatic Door Close 自动门打开/自动门关闭
+ADO/MDC:Automatic Door Open/Manual Door Close 自动门打开/人工们关闭
+ATO:Automatic Train Operation 列车自动驾驶
+ATP:Automatic Train Protection 列车自动防护
+IATPM:Intermittent ATP Manual mode 点式ATP模式
+BIOS:Basic Input-Output System 基础输入-输出系统
+CC:Carborne Controller 车载控制器
+CPU:Central Processing Unit 中央处理单元
+CRC:Cyclic Redundancy Check 循环冗余校验
+DC:Direct Current 直流电
+DID:Destination ID 目的地标识
+EB:Emergency Brake  紧急制动
+FSB:Full Service Brake  全常用制动
+ICMP:Internet Control Management Protocol网间控制报文协议
+IGMP:Internet Group Management Protocol 网间组广播管理协议
+IP:Internet Protocol网际协议
+ISO:International Standard Organization 国际标准化组织
+LED:Light-Emitting Diode 发光二极管
+LLC:Logical Link Control 逻辑连接控制
+MAC:Media Access Control 媒介访问控制
+MDO/MDC:Manual Door Open/Manual Door Close 人工开门/人工关门
+MMI:Man-Machine Interface 人机界面
+MPEG:Moving Picture Experts Group 运动图象专家组
+MVB:Multifunction Vehicle Bus 多功能列车总线
+NRM:Non-Restricted Manual 非受限人工模式
+OSI:Open Structure Inter开放式系统互联参考模型
+PC:Personal Computer 个人电脑
+PSD:Platform Screen Door 站台屏蔽门
+PVID:Permanent Vehicle ID 永久列车标识
+RM:Restricted Manual 受限人工驾驶
+ROM:Ready-Only Memory 只读内存
+S/E:Switch/Extender  交换机/扩展器
+TCP:Transmission Control Protocol 传输控制协议
+TFT:Thin Film Transistor 薄膜晶体管
+TMS:Train Management System 列车管理系统
+TOD:Train Operator Display 列车操作显示
+UDP:User Datagram Protocol  用户数据报协议
+USB:Universal Serial Bus 通用串行总线
+0x:Hexadecimal value
+AM:Automatic Mode
+ATB:Automatic Turn Back or Automatic Turn Back mode
+ATPM:Manual train operation mode under ATP full supervision
+CBTC KP:Site survey KP: KP measured on site
+CC:Carborne Controller, on board Core CBTC equipment; one or two of them can be loaded
+CRC-VDC:Checksum for vital double control messages
+DCS:Data Communication System
+EB:Emergency Brake or Braking
+EVAC:EVACuation alarm
+FSB:Full Service Brake or Braking
+GIDS:Guideway Intrusion Detection System
+HSI:Hand Shake Initiator
+HSR:Hand Shake Receiver
+ILD:train Integrity Loss Detection
+IP:Internet Protocol
+KP:Kilometre Point
+LSB:Least Significant Byte
+MSB:Most Significant Byte
+NCT:Non Communicating Trains
+NTP:Network Time Protocol
+NV:Non Vital
+OSP:Operational Stopping Point
+PSD:Platform Screen Door
+RFC:Message 200 with RSN = 0
+RS:Rolling Stock
+RSN:Receipt Sequence Number
+SB:Service Brake or Braking
+SIL:Safety Integrity Level
+TSM:Train Speed Monitoring
+TSN:Transmission Sequence Number
+TSR:Temporary Speed Restriction
+T_AD:AM and related modes
+T_ATB:ATB Mode and related modes
+T_ATP_MD:ATPM and related modes
+UTC:Universal Time Coordinated
+V:Vital
+VDC:Vital Double Control
+ZC:Zone Controller, wayside Core CBTC equipment; they may be one to five for a line.
+CRC:Cyclic Redundancy Check
+DB:DataBase
+FE:Falling Edge
+FSK:Frequency-Shift Keying
+IATPM:Intermittent Automatic Train Protection – Manual
+ID:IDentification
+OOS:Out Of Scade
+OSP:Operational Stopping Point
+PCI:Peripheral Component Interconnect
+PMC:PCI Mezzanine Card
+RE:Rising Edge
+TIA:Tag Interrogator Antenna
+TTL:Time To Live
+VSP:Vital Stopping Point

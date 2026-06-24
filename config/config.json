@@ -1,0 +1,34 @@
+{
+  "llm": {
+    "backend": "lm_studio",
+    "model": "google/gemma-4-12b-qat"
+  },
+  "lm_studio": {
+    "base_url": "http://127.0.0.1:1234/v1",
+    "api_key": "",
+    "enable_thinking": false,
+    "send_chat_template_kwargs": false,
+    "fallback_max_tokens": 4096,
+    "timeout": null
+  },
+  "ollama": {
+    "model": "google/gemma-4-12b-qat",
+    "base_url": "http://localhost:11434",
+    "timeout": 300
+  },
+  "translation": {
+    "max_tokens_per_batch": 32768,
+    "retry_times": 3,
+    "retry_delay": 2,
+    "batch_size": 40,
+    "industry_preset": "rail_signaling",
+    "industry_custom": "",
+    "glossary_file": "D:\\python\\文件自动翻译工具\\V_0_4\\专业词汇.txt"
+  },
+  "output": {
+    "default_format": "bilingual",
+    "source_lang": "en",
+    "target_lang": "zh-Hans",
+    "layout": "bilingual"
+  }
+}
